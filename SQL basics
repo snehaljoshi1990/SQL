@@ -1,2 +1,3 @@
 SQL stands for Structured Query Language, and it's a way to communicate with databases.
 Think of a database as a big filing cabinet where you store information in tables, and SQL is like the language you use to talk to that filing cabinet and ask it questions.
+First, let's understand some basic SQL commands:
