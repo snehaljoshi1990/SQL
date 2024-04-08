@@ -2,3 +2,4 @@ SQL stands for Structured Query Language, and it's a way to communicate with dat
 Think of a database as a big filing cabinet where you store information in tables, and SQL is like the language you use to talk to that filing cabinet and ask it questions.
 First, let's understand some basic SQL commands:
 SELECT: This is like asking the database to give you some information. You use it when you want to retrieve data from the database.
+FROM: This tells SQL where to look for the information you want.
