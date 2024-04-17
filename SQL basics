@@ -5,4 +5,4 @@ SELECT: This is like asking the database to give you some information. You use i
 FROM: This tells SQL where to look for the information you want.
 You specify the table you want to get data from.
 You specify the table you want to get data from.
-WHERE:This is like 
+WHERE:This is like giving 
