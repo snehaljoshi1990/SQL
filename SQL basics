@@ -6,3 +6,4 @@ FROM: This tells SQL where to look for the information you want.
 You specify the table you want to get data from.
 You specify the table you want to get data from.
 WHERE:This is like giving SQL a condition to filter the 
+SQL stands for Structured Query Language, and it's a way to communicate with databases.
