@@ -1,9 +1,2 @@
-SQL stands for Structured Query Language, and it's a way to communicate with databases.
-Think of a database as a big filing cabinet where you store information in tables, and SQL is like the language you use to talk to that filing cabinet and ask it questions.
-First, let's understand some basic SQL commands:
-SELECT: This is like asking the database to give you some information. You use it when you want to retrieve data from the database.
-FROM: This tells SQL where to look for the information you want.
-You specify the table you want to get data from.
-You specify the table you want to get data from.
-WHERE:This is like giving SQL a condition to filter the 
-SQL stands for Structured Query Language, and it's a way to communicate with databases.
+Introduction to SQL
+SQL (Structured Query Language) is a programming language designed for managing and manipulating relational databases. It allows you to interact with databases to retrieve, insert, update, and delete data.
